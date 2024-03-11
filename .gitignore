@@ -1,6 +1,6 @@
-# Compiled class file 123
+# Compiled class file https://git-scm.com/docs/gitignore
 *.class
-
+#https://git-scm.com/docs/gitignore
 # Log file
 *.log
 
