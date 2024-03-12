@@ -1,26 +1,11 @@
-package lesson16_string2;
+package lesson17;
 
 public class Test1 {
-//    public static void main(String[] args) {
-//        String s1= "Privet";
-//        System.out.println(s1.isBlank());
-//        String s2= "                 ";
-//        System.out.println(s2.isBlank());
-//    }
-
-    //    public static void main(String[] args) {
-//        String s3= "";
-//        System.out.println(s3.isEmpty());
-//    }
     public static void main(String[] args) {
-        String s4 = "        Privet          ";
-//      System.out.println(s4.strip());
-//      System.out.println(s4.stripLeading());
-//      System.out.println(s4.stripTrailing());
-        String s5 = "Poka";
-        String s6 = s5.strip();
-        System.out.println(s5 == s6);
-    }
+        StringBuilder sb1=new StringBuilder();
+        StringBuilder sb2=new StringBuilder("Good day");
+        StringBuilder sb3=new StringBuilder(50);//вместимость 50 символов
 
+    }
 
 }
