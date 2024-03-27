@@ -1,7 +1,6 @@
-package lesson20_array_list;
+package lesson20_array_list_1;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class Test7 {
     public static void main(String[] args) {
