@@ -1,6 +1,6 @@
-package lesson22.p1;
+package lesson22_inkapsulaciya.p1;
 
-import lesson22.Chelovek;
+import lesson22_inkapsulaciya.Chelovek;
 
 public class Test1 {
     public static void main(String[] args) {

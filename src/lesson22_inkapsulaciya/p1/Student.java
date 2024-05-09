@@ -1,6 +1,6 @@
-package lesson22.p1;
+package lesson22_inkapsulaciya.p1;
 
-import lesson22.*;
+import lesson22_inkapsulaciya.*;
 
 public class Student extends Human {
     public static void main(String[] args) {

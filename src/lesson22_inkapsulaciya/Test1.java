@@ -1,4 +1,4 @@
-package lesson22;
+package lesson22_inkapsulaciya;
 
 public class Test1 {
     public static void main(String[] args) {

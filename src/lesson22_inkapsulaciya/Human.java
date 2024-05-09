@@ -1,4 +1,4 @@
-package lesson22;
+package lesson22_inkapsulaciya;
 
 public class Human {
     protected String name = "Kolya";
