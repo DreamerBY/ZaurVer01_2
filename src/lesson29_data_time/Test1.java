@@ -1,8 +1,5 @@
-package lesson28_data_time;
-import java.time.LocalDate;
+package lesson29_data_time;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.Month;
 
 public class Test1 {
   public static void main(String[] args) {
