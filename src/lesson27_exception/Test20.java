@@ -1,0 +1,8 @@
+package lesson27_exception;
+
+public class Test20 {
+//NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL
+//NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL //NE PISAL
+
+}
+
